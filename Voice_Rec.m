@@ -1,5 +1,5 @@
 function Voice_Rec(~)
-Fs = 50000;         			% Sample Frequency 
+Fs = 70000;         			% Sample Frequency 
 x=audioread('six.wav');
 %
 % tag wave information 
